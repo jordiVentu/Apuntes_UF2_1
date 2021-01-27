@@ -3,22 +3,22 @@ Apuntes_UF2_1
 
 ## Objetivos
 objetivos de una prueba eficiente
-1.probar si el software no hace lo que debe hacer
-2. probar si el software hace lo que no debe hacer
+- probar si el software no hace lo que debe hacer
+- probar si el software hace lo que no debe hacer
 
 ## FRAMWORK
 Permite a un conjunto de desarrolladores realizar un programa con mallor facilidad
--conjunto de practicas y suposiciones
--herraminetas comunes
--bibliotecas
+- conjunto de practicas y suposiciones
+- herraminetas comunes
+- bibliotecas
 
 # Pruebas
-Preubas dinamicas: Durante la aplicacion en ejecucion permite medir el rendimiento de esta
-Preuebas estaticas: Sin ejecutar elcodigo se examina el codigo fuente
+- **Preubas dinamicas**: Durante la aplicacion en ejecucion permite medir el rendimiento de esta
+- **Preuebas estaticas**: Sin ejecutar elcodigo se examina el codigo fuente
 
 ## Estrategias de prueba
-- Caja negra: Probando desde fuera se mide la funcionalidad
-- CAja blanca: Se examina el codigo fuente para analizar el codigo
+- **Caja negra**: Probando desde fuera se mide la funcionalidad
+- **CAja blanca**: Se examina el codigo fuente para analizar el codigo
 
 ### Estrategias de prueba de caja negra
 - Se estudia el sistema desde fuera
