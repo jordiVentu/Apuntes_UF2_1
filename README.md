@@ -83,8 +83,8 @@ de assegurar el producto
 de garantizar la portabilidad
 
 ## Mecanismo de prueba
-- Manual: Es realizado por los empleados de la empresa o externos
-- Automatico: Es ejecutado por un software que analiza de forma 
+- **Manual**: Es realizado por los empleados de la empresa o externos
+- **Automatico**: Es ejecutado por un software que analiza de forma 
 automatica
 
 ## soporte del depurador
