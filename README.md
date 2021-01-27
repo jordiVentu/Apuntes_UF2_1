@@ -24,7 +24,7 @@ Permite a un conjunto de desarrolladores realizar un programa con mallor facilid
 - Se estudia el sistema desde fuera
 - No se analiza de forma interna
 - Se proporcionan entradas y se estudian las salidas
-- Principales tecnicasn: PArticiones de equivalencia, valores limite
+- Principales tecnicas: PArticiones de equivalencia, valores limite
 
 ### Estrategias de prueba de caja blanca
 - Se prueba ejecuta el codigo fuente
