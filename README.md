@@ -111,9 +111,9 @@ automatica
 - **Test**: Representa un test que se debe ejecutar
  
 ## TDD
-Test Driven Development
-- Escribir las pruebas primero
-- Refactorizacion
+**Test Driven Development**
+- **Escribir las pruebas primero**
+- **Refactorizacion**
  
  # FORMAS DE INTEGRACION
  - **Integracio Big bang**
@@ -130,7 +130,7 @@ Test Driven Development
  ## Cobertura del codigo
  - Indica en partentaje el codigo ejecutado
  - Es acomsejable que este cerca del 100%
- -Es mejor simpre ejecutar el 100% de codigo
+ - Es mejor simpre ejecutar el 100% de codigo
  - Es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado.
  
  # CONTROL DE CALIDAD
