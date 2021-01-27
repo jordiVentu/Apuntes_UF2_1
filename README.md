@@ -2,7 +2,7 @@
 Apuntes_UF2_1
 
 ## Objetivos
--objetivos de una prueba eficiente
+objetivos de una prueba eficiente
 1.probar si el software no hace lo que debe hacer
 2. probar si el software hace lo que no debe hacer
 
@@ -39,43 +39,43 @@ Funcionales: Evaluan que se cumplan los requisitos
 NO funcionales: Evalua rendimiento, y seguridad
 
 ## PRUEBAS FUNCIONALES
-- Preuebas unitarias:Se utilizar para asegurar que funcione correctamente una unidad de codigo en
+- Preuebas unitarias:  Se utilizar para asegurar que funcione correctamente una unidad de codigo en
 espeficifico i saber si en conjunto todas funcionan de forma correcta si que alguna por
 separado sin darnos cuenta de algun problema
 
-- Pruebas de regresion:consiste en buscar problemas que o fallas con la idea original
+- Pruebas de regresion:  consiste en buscar problemas que o fallas con la idea original
 del producto
 
-- Preuebas de integracion:Aqui se comprueba que todos los componenes que se hacen
+- Preuebas de integracion:  Aqui se comprueba que todos los componenes que se hacen
 por separado en un programa funcionen correctamente unidos
 
 - Preuebas de humo: Aqui se comprueba de forma rapida si hay errores evidentes
 
-- Preuebas del sistema:Esta tiene la idea de comprobar como se relaciona el sistema
+- Preuebas del sistema:  Esta tiene la idea de comprobar como se relaciona el sistema
 con todo lo que tenga contacto con el mismo
 
 - Preuebas alfa y beta: Aqui vamos pasando el desarrollo de la aplicacion pro 
 diferentes dases mejorando notoramiente los errores de fase a fase con tal 
 de avanzar de forma segura
 
-- Preuebas de aceptacion:Esta preuba consiste en analizar el programa para saber si
+- Preuebas de aceptacion:  Esta preuba consiste en analizar el programa para saber si
 cumple con lo esperado por el cliente/usuario
 
 ## Preubas NO FUNCIONALES
-- Preubas de usabilidad:Se trata de hacer una preuba con el usuario real para
+- Preubas de usabilidad:  Se trata de hacer una preuba con el usuario real para
 detectar carencias en el programa
 
-- Pruebas de rendimiento:Se trata de analizar como funciona el programa en tiempo
+- Pruebas de rendimiento:  Se trata de analizar como funciona el programa en tiempo
 reali i buscar soluciones para optimizar el programa i hacer que vaya con mayor
 fluidez
 
-- Pruebas de stress:Se trata de poner mucha presion en el programa i comprobar lo
+- Pruebas de stress:  Se trata de poner mucha presion en el programa i comprobar lo
 que es capaz de soportar
 
-- Preubas de seguridad:Aqui comprobamos si hay posibles errores de seguridad que
+- Preubas de seguridad:  Aqui comprobamos si hay posibles errores de seguridad que
 puedan perjudicar al usuario
 
-- Pruebas de compatibilidad:Aqui cimporbamos la compatibilidad con los 
+- Pruebas de compatibilidad:  Aqui cimporbamos la compatibilidad con los 
 distintos sistemas con los que funcionara nuestra aplicacion con tal 
 de assegurar el producto
 
