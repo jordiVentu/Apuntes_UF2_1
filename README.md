@@ -137,8 +137,8 @@ Test Driven Development
  Para poder verder el producto de forma buena es necesario un buen control de calidad
  
  ## CALIDAD DEL PROCESO/PRODUCTO
- - QA: ES el conjunto de acciones que implican un buen desarrolo del producto 
- - QC: Es un conjunto de actividades para garantizar la calidad 
+ - **QA**: ES el conjunto de acciones que implican un buen desarrolo del producto 
+ - **QC**: Es un conjunto de actividades para garantizar la calidad 
  de los productos, i se centra en identificar errores del producto
 
 # FACTORES DE CALIDAD
