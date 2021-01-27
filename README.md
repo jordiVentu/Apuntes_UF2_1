@@ -34,9 +34,9 @@ Preuebas estaticas: Sin ejecutar elcodigo se examina el codigo fuente
 - Principales tecnicas: Cobertura de codigo
 - Prueba de bucles
 
-##Tipos de PRUEBAS
-Funcionales: Evaluan que se cumplan los requisitos
-NO funcionales: Evalua rendimiento, y seguridad
+## Tipos de PRUEBAS
+- **Funcionales**: Evaluan que se cumplan los requisitos
+- **NO funcionales**: Evalua rendimiento, y seguridad
 
 ## PRUEBAS FUNCIONALES
 - **Preuebas unitarias**: Se utilizar para asegurar que funcione correctamente una unidad de codigo en
@@ -88,3 +88,56 @@ de garantizar la portabilidad
 automatica
 
 ## Soporte del depurador
+- Puntos de reptura
+- Ejecucion paso a paso
+- Analisis de variables
+
+## Aurimarizacion de pruebas 
+ Un sistema automatizat que verifica el programa(xUnit)
+ 
+ ## Frameworks para pruebas
+ Java:JUnit, TestNG
+ 
+ ## Caso de prueba
+ -Un caso de prueba de compone de:
+ Una entrada conocida --> Una salida esperada
+ 
+ ## Anotaciones
+- **BeforeClass**: el método es invocado antes de iniciar todos los tests
+- **AfterClass**: el método es invocado después de finalizar todos los tests
+- **Before**: Se ejecuta antes de cada test
+- **After**: Se ejecuta después de cada test
+- **Ignore**: Los métodos marcados con esta anotación no serán ejecutados
+- **Test**: Representa un test que se debe ejecutar
+ 
+## TDD
+Test Driven Development
+- Escribir las pruebas primero
+- Refactorizacion
+ 
+ # FORMAS DE INTEGRACION
+ - Integracio Big bang
+ - Integracion Descendente
+ - Integracion Ascendente
+ - Integracion Continua (CI)
+ 
+ ## Servidores de integracion continua
+ -  Jenkins
+ - Bamboo
+ - TravisCI
+ - CircleCI
+ 
+ ## Cobertura del codigo
+ - Indica en partentaje el codigo ejecutado
+ - Es acomsejable que este cerca del 100%
+ -Es mejor simpre ejecutar el 100% de codigo
+ - Es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
