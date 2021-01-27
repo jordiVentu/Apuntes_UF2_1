@@ -133,10 +133,30 @@ Test Driven Development
  -Es mejor simpre ejecutar el 100% de codigo
  - Es posible realizar la cobertura tanto desde el IDE como desde un servicio web apropiado.
  
+ # CONTROL DE CALIDAD
+ Para poder verder el producto de forma buena es necesario un buen control de calidad
  
- 
- 
- 
+ ## CALIDAD DEL PROCESO/PRODUCTO
+ - QA: ES el conjunto de acciones que implican un buen desarrolo del producto 
+ - QC: Es un conjunto de actividades para garantizar la calidad 
+ de los productos, i se centra en identificar errores del producto
+
+# FACTORES DE CALIDAD
+
+## OPERACION DEL PRODUCTO
+- **Correccion:** Correjir la mayor cantidad de fallos en la creacion del producto
+- **Fiabilidad:** Garantiza confiabilidad del producto hacia el cliente
+- **Eficiencia:** Eficiencia tanto en la producion com para el cliente
+- **Seguridad:** Garantizar seguridad tanto como para el producto
+- **Facilidad de uso:** Facilitar al usuario usar tu producto
+## REVISION DEL PRODUCTO
+- **Mantenibilidad:** Darle mantenimiento a tu producto
+- **Flexibilidad:** Darle a tu producto la capacidad de adaptarse en la mayoria de situaciones
+- **Facilidad de prueba:** Una forma sencilla de que el usaurio sepa si esta interesado en tu producto
+## TRANSICION DEL PRODUCTO
+ - **Portabilidad:** Poder usar tu producto en diferentes campos
+ - **Reusabilidad:** QUe tu producto pueda tener varias funciones para distintos casos
+ - **Interoperatividad:** Que tu programa de una forma sencilla pueda intercambiar informacion con otro programa
  
  
  
