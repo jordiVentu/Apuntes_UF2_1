@@ -87,4 +87,4 @@ de garantizar la portabilidad
 - **Automatico**: Es ejecutado por un software que analiza de forma 
 automatica
 
-## soporte del depurador
+## Soporte del depurador
