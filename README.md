@@ -88,18 +88,18 @@ de garantizar la portabilidad
 automatica
 
 ## Soporte del depurador
-- Puntos de reptura
-- Ejecucion paso a paso
-- Analisis de variables
+- **Puntos de reptura**
+- **Ejecucion paso a paso**
+- **Analisis de variables**
 
 ## Aurimarizacion de pruebas 
- Un sistema automatizat que verifica el programa(xUnit)
+ **Un sistema automatizat que verifica el programa(xUnit)**
  
  ## Frameworks para pruebas
- Java:JUnit, TestNG
+**Java:JUnit, TestNG**
  
  ## Caso de prueba
- -Un caso de prueba de compone de:
+ - **Un caso de prueba de compone de:**
  Una entrada conocida --> Una salida esperada
  
  ## Anotaciones
@@ -116,16 +116,16 @@ Test Driven Development
 - Refactorizacion
  
  # FORMAS DE INTEGRACION
- - Integracio Big bang
- - Integracion Descendente
- - Integracion Ascendente
- - Integracion Continua (CI)
+ - **Integracio Big bang**
+ - **Integracion Descendente**
+ - **Integracion Ascendente**
+ - **Integracion Continua (CI)**
  
  ## Servidores de integracion continua
- -  Jenkins
- - Bamboo
- - TravisCI
- - CircleCI
+ -  **Jenkins**
+ - **Bamboo**
+ - **TravisCI**
+ - **CircleCI**
  
  ## Cobertura del codigo
  - Indica en partentaje el codigo ejecutado
